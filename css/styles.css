@@ -1,0 +1,28 @@
+/**
+* @Author: Justin Schieck
+* @Date:   2017-01-25T14:22:09-05:00
+* @Email:  schieck91@gmail.com
+* @Last modified by:   Justin Schieck
+* @Last modified time: 2017-02-02T14:04:23-05:00
+*/
+
+img {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    margin-left: -64px;
+    margin-top: -64px;
+}
+
+figcaption {
+    display: block;
+    position: absolute;
+    top: 90%;
+    left: 49%;
+    margin-left: -64px;
+    margin-top: -64px;
+}
+
+button {
+  padding: 30px;
+}
